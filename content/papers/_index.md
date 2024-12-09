@@ -2,9 +2,6 @@
 title: "Papers"
 type: collection
 
-design:
-  spacing: "6rem"
-
 content:
   title: All Publications
   filters:
@@ -12,6 +9,6 @@ content:
       - publication
     featured_only: false
   design:
-    view: citation # Use citation view or any preferred layout
+    view: citation # Or any preferred layout like article-grid
     columns: 1
 ---
