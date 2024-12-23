@@ -9,6 +9,6 @@ content:
       - publication
     featured_only: false
   design:
-    view: citation # Or any preferred layout like article-grid
+    view: citation
     columns: 1
 ---
