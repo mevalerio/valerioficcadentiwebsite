@@ -21,4 +21,6 @@ url_slides: ""
 url_video: ""
 slides: ""
 projects: []
+# Is this a featured talk? (true/false)
+featured: true
 ---
