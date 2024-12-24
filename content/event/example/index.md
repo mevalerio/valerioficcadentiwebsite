@@ -30,7 +30,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -51,7 +51,7 @@ url_video: 'https://youtube.com'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: content/slides/kendall-correlations.md
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
