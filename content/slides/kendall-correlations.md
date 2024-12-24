@@ -2,7 +2,7 @@
 title: "Kendall correlations and Radar charts in soccer rankings"
 author: ["Roy Cerqueti", "Raffaele Mattera", "**Valerio Ficcadenti**"]
 institute: ["Department of Social and Economic Sciences, Sapienza University of Rome, Italy", "GRANEM, University of Angers, France", "School of Business, London South Bank University, United Kingdom"]
-date: "July 17, 2024"
+date: date: "2024-07-17"
 output:
   revealjs::revealjs_presentation:
     theme: night
