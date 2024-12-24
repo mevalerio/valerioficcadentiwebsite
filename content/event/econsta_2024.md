@@ -6,7 +6,7 @@ event_url: "https://www.cmstatistics.org/EcoSta2024/"
 location: "Beijing Normal University, Beijing, China"
 date: "2024-07-17"
 date_end: "2024-07-19"
-all_day: false
+all_day: true
 summary: "An innovative approach to soccer rankings integrating statistical methods for balanced team performance evaluation."
 abstract: |
   The presentation introduced an innovative approach to soccer rankings, developed in collaboration with Dr Raffaele Mattera and Prof Roy Cerqueti. The study incorporates multiple performance variables, including scored and conceded goals, alongside traditional win-draw-loss metrics.
