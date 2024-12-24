@@ -89,7 +89,6 @@ Where:
 - Improved performance-oriented rankings derived.
 
 #### Example Distribution:
-![Example Distribution](example_distribution.png)
 
 ---
 
