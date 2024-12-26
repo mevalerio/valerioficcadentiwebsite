@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'ECOSTA2024.pdf'
+url_slides: 'uploads/ECOSTA2024.pdf'
 url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
@@ -51,7 +51,7 @@ url_video: 'https://youtube.com'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "ECOSTA2024.pdf"
+slides: "uploads/ECOSTA2024.pdf"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
