@@ -23,7 +23,7 @@ url_code: ""
 url_pdf: ""
 url_slides: "uploads/ECOSTA2024.pdf"
 url_video: ""
-slides: uploads/ECOSTA2024.pdf
+slides: "uploads/ECOSTA2024.pdf"
 projects: []
 conference_details:
   name: "7th International Conference on Econometrics and Statistics (EcoSta 2024)"
