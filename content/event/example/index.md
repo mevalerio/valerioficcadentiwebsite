@@ -2,28 +2,24 @@
 title: "Kendall correlations and radar charts to include
 goals for and goals against in soccer rankings"
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: "7th International Conference on Econometrics and Statistics (EcoSta 2024)"
+event_url: "https://www.cmstatistics.org/EcoSta2024/"
+location: "Beijing Normal University, Beijing, China"
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+summary: "An innovative approach to soccer rankings integrating statistical methods for balanced team performance evaluation."
+abstract: |
+  The presentation introduced an innovative approach to soccer rankings, developed in collaboration with Dr Raffaele Mattera and Prof Roy Cerqueti. The study incorporates multiple performance variables, including scored and conceded goals, alongside traditional win-draw-loss metrics.
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+  Using Kendall correlations and radar charts, the analysis normalised and visualised team performances. These radar chart areas were transformed into Kendall tau target values, which were subsequently used to construct alternative rankings that better reflect overall team performance. This methodology addresses biases in traditional ranking systems, ensuring more balanced evaluations of offensive and defensive capabilities. The application to the Italian Serie A demonstrated the efficacy of this computational framework for creating fairer and more detailed rankings.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: "2024-07-17"
+date_end: "2024-07-19"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-07-20T00:00:00Z'
 
 authors:
   - admin
@@ -31,10 +27,10 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/man-in-gray-crew-neck-t-shirt-Ph0Aa13k5-c)'
   focal_point: Right
 
 #links:
@@ -42,10 +38,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
 url_slides: 'uploads/ECOSTA2024.pdf'
-url_video: 'https://youtube.com'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -63,7 +59,7 @@ projects:
   - example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
@@ -73,4 +69,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
