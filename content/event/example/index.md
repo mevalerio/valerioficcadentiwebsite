@@ -1,5 +1,6 @@
 ---
-title: Example Talk
+title: "Kendall correlations and radar charts to include
+goals for and goals against in soccer rankings"
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
