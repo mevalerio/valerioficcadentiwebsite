@@ -21,7 +21,7 @@ image:
   focal_point: "Right"
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/ECOSTA2024.pdf"
+url_slides: 'uploads/ECOSTA2024.pdf'
 url_video: ""
 slides: "uploads/ECOSTA2024.pdf"
 projects: []
