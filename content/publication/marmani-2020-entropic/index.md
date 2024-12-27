@@ -3,7 +3,7 @@ title: Entropic analysis of votes expressed in Italian elections between 1948 an
   2018
 authors:
 - Stefano Marmani
-- Valerio Ficcadenti
+- admin
 - Parmjit Kaur
 - Gurjeet Dhesi
 date: '2020-01-01'

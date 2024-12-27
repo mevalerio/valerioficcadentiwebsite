@@ -4,7 +4,7 @@ title: Portfolio decision analysis for pandemic sentiment assessment based on fi
 authors:
 - Roy Cerqueti
 - Francesco Cesarone
-- Valerio Ficcadenti
+- admin
 date: '2024-01-01'
 publishDate: '2024-12-09T22:52:38.876248Z'
 publication_types:

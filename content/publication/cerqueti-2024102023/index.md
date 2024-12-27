@@ -2,7 +2,7 @@
 title: Investors’ attention and network spillover for commodity market forecasting
 authors:
 - Roy Cerqueti
-- Valerio Ficcadenti
+- admin
 - Raffaele Mattera
 date: '2024-01-01'
 publishDate: '2024-12-09T22:52:38.897885Z'

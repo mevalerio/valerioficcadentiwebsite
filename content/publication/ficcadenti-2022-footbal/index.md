@@ -2,7 +2,7 @@
 title: 'A rank-size approach to analyse soccer competitions and teams: the case of
   the Italian football league ``Serie A\"'
 authors:
-- Valerio Ficcadenti
+- admin
 - Roy Cerqueti
 - Ciro Hosseini Varde’i
 date: '2022-01-01'

@@ -3,7 +3,7 @@ title: Combining rank-size and k-means for clustering countries over the COVID-1
   new deaths per million
 authors:
 - Roy Cerqueti
-- Valerio Ficcadenti
+- admin
 date: '2022-01-01'
 publishDate: '2024-12-09T22:52:38.768854Z'
 publication_types:

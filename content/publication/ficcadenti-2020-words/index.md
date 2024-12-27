@@ -2,7 +2,7 @@
 title: Words ranking and Hirsch index for identifying the core of the hapaxes in political
   texts
 authors:
-- Valerio Ficcadenti
+- admin
 - Roy Cerqueti
 - Marcel Ausloos
 - Gurjeet Dhesi

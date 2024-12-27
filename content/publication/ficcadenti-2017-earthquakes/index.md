@@ -1,7 +1,7 @@
 ---
 title: Earthquakes economic costs through rank-size laws
 authors:
-- Valerio Ficcadenti
+- admin
 - Roy Cerqueti
 date: '2017-01-01'
 publishDate: '2024-12-09T22:52:38.800795Z'

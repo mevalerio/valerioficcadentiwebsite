@@ -2,7 +2,7 @@
 title: A joint text mining-rank size investigation of the rhetoric structures of the
   US Presidents’ speeches
 authors:
-- Valerio Ficcadenti
+- admin
 - Roy Cerqueti
 - Marcel Ausloos
 date: '2019-01-01'

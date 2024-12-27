@@ -4,7 +4,7 @@ title: Kendall correlations and radar charts to include goals for and goals agai
 authors:
 - Roy Cerqueti
 - Raffaele Mattera
-- Valerio Ficcadenti
+- admin
 date: '2024-01-01'
 publishDate: '2024-12-09T22:52:38.886910Z'
 publication_types:

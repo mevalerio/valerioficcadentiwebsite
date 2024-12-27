@@ -2,7 +2,7 @@
 title: Markov Chain Monte Carlo for generating ranked textual data
 authors:
 - Roy Cerqueti
-- Valerio Ficcadenti
+- admin
 - Gurjeet Dhesi
 - Marcel Ausloos
 date: '2022-01-01'

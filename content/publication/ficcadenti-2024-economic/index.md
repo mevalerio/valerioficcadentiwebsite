@@ -1,7 +1,7 @@
 ---
 title: Economic keywords in political communications and financial markets
 authors:
-- Valerio Ficcadenti
+- admin
 - Roy Cerqueti
 date: '2024-01-01'
 publishDate: '2024-12-09T22:52:38.865721Z'

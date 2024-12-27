@@ -2,7 +2,7 @@
 title: Anxiety about the pandemic and trust in financial markets
 authors:
 - Roy Cerqueti
-- Valerio Ficcadenti
+- admin
 date: '2023-01-01'
 publishDate: '2024-12-09T22:52:38.855012Z'
 publication_types:
