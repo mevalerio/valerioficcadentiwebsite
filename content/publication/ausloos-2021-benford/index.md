@@ -3,7 +3,7 @@ title: Benford’s laws tests on S&P500 daily closing values and the correspondi
   log-returns both point to huge non-conformity
 authors:
 - Marcel Ausloos
-- Valerio Ficcadenti
+- admin
 - Gurjeet Dhesi
 - Muhammad Shakeel
 date: '2021-01-01'
