@@ -9,4 +9,5 @@ publication_types:
 - article-journal
 publication: '*Annals of Operations Research*'
 doi: 10.1007/s10479-024-05905-w
+featured: true
 ---

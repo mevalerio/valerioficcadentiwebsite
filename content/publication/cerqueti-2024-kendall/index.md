@@ -10,5 +10,6 @@ publishDate: '2024-12-09T22:52:38.886910Z'
 publication_types:
 - article-journal
 publication: '*Computational Statistics*'
-doi: 10.1007/s00180-024-01542-w
+doi: 10.1007/s00180-024-01542-
+featured: true
 ---
