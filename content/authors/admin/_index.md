@@ -189,7 +189,7 @@ skills:
       - name: LaTeX
         description: 'Expert in typesetting academic papers, research articles, and presentations using LaTeX.'
         percent: 90
-        icon: 'assets/media/icons/latex-svgrepo-com.svg'
+        icon: 'static/uploads/latex-svgrepo-com.svg'
       - name: Financial Software
         description: 'Bloomberg and Refinitiv Eikon'
         icon: bank
