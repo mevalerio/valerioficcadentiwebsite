@@ -227,8 +227,8 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Best Delegate @ WHO Simulation
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2017-03-15'
+    url: https://ecointernazionale.com/2017/03/cwmun-2017-corrispondenze-in-diretta-da-new-york-city/
+    date: '2017-03-19'
     awarder: Change the World Model United Nations
     icon:  UN_emblem_blue.svg
     summary: |
