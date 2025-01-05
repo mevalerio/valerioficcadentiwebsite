@@ -207,7 +207,7 @@ skills:
         icon: <img src="/icons/rotary-international-6.svg" alt="Custom Icon" width="32" height="32">
       - name: Charity
         description: 'Founder and member of the e-Rotary Club "Homaranismo".'
-        icon: handshake
+        icon: <svg width="32" height="32"> <use xlink:href="/icons/rotary-international-6.svg#1"></use> </svg>
       - name: Sports & Hobbies
         description: 'Kickboxing (black belt first dan and coach), cycling, and reading about geopolitics.'
         icon: bicycle
