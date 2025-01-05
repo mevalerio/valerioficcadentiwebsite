@@ -189,7 +189,7 @@ skills:
       - name: LaTeX
         description: 'Expert in typesetting academic papers, research articles, and presentations using LaTeX.'
         percent: 90
-        icon:  <i class="icon-my-custom-icon"></i>
+        icon: assets/media/icons/latex-svgrepo-com.svg
       - name: Financial Software
         description: 'Bloomberg and Refinitiv Eikon'
         icon: bank
@@ -204,10 +204,10 @@ skills:
         icon: user-group
       - name: Charity
         description: 'Founder and honorary member of the Rotaract Club "La Marca" - Rotary Club of Civitanova Marche, Italy.'
-        icon: <img src="/icons/rotary-international-6.svg" alt="Custom Icon" width="32" height="32">
+        icon: '<img src="/icons/rotary.svg" alt="LaTeX Icon" width="24" height="24">'
       - name: Charity
         description: 'Founder and member of the e-Rotary Club "Homaranismo".'
-        icon: <svg width="32" height="32"> <use xlink:href="/icons/rotary-international-6.svg#1"></use> </svg>
+        icon: <svg width="32" height="32"> <use xlink:href="/icons/rotary-international-6.svg#icon-id"></use> </svg>
       - name: Sports & Hobbies
         description: 'Kickboxing (black belt first dan and coach), cycling, and reading about geopolitics.'
         icon: bicycle
