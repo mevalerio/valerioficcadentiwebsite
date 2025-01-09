@@ -204,7 +204,7 @@ skills:
         icon: user-group
       - name: Charity
         description: 'Founder and honorary member of the Rotaract Club "La Marca" - Rotary Club of Civitanova Marche, Italy.'
-        icon:  "custom/rotary"
+        icon:  custom/rotary
       - name: Charity
         description: 'Founder and member of the e-Rotary Club "Homaranismo".'
         icon: custom/rotary
