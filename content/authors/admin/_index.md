@@ -204,10 +204,10 @@ skills:
         icon: user-group
       - name: Charity
         description: 'Founder and honorary member of the Rotaract Club "La Marca" - Rotary Club of Civitanova Marche, Italy.'
-        icon:  custom/rotary
+        icon:  custom/latex2
       - name: Charity
         description: 'Founder and member of the e-Rotary Club "Homaranismo".'
-        icon: custom/rotary
+        icon: custom/overkeaf
       - name: Sports & Hobbies
         description: 'Kickboxing (black belt first dan and coach), cycling, and reading about geopolitics.'
         icon: bicycle
