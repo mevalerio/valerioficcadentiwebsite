@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Academic CV Theme</title>
+    <title>Valerio Ficcadenti&#39;s web space</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo Academic CV Theme</description>
+    <description>Valerio Ficcadenti&#39;s web space</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu4771185263129740788.png</url>
-      <title>Hugo Academic CV Theme</title>
+      <title>Valerio Ficcadenti&#39;s web space</title>
       <link>http://localhost:1313/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+      <title>Kendall correlations and radar charts to include goals for and goals against in soccer rankings</title>
+      <link>http://localhost:1313/event/econsta_2024/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/econsta_2024/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
     </item>
     
@@ -70,6 +80,14 @@
       <link>http://localhost:1313/publication/cerqueti-2024-portfolio/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/cerqueti-2024-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Chain Monte Carlo for Generating Ranked Textual Data</title>
+      <link>http://localhost:1313/event/icas_2023/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/icas_2023/</guid>
       <description></description>
     </item>
     
@@ -310,7 +328,7 @@
 
 
 
-&lt;div id=&#34;chart-542768139&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-523719846&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -328,7 +346,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-542768139&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-523719846&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -987,6 +1005,22 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Anxiety for the Pandemic and Trust in Financial Markets</title>
+      <link>http://localhost:1313/event/cebss_2021/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/cebss_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anxiety for the Pandemic and Trust in Financial Markets</title>
+      <link>http://localhost:1313/event/int_week_2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/int_week_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Benford’s laws tests on S&amp;P500 daily closing values and the corresponding daily log-returns both point to huge non-conformity</title>
       <link>http://localhost:1313/publication/ausloos-2021-benford/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -1003,6 +1037,14 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Benford&#39;s Laws Tests on S&amp;P500 Daily Closing Values and Log-Returns</title>
+      <link>http://localhost:1313/event/icas_2020/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/icas_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Entropic analysis of votes expressed in Italian elections between 1948 and 2018</title>
       <link>http://localhost:1313/publication/marmani-2020-entropic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -1015,6 +1057,14 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/publication/ficcadenti-2020-words/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/ficcadenti-2020-words/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earthquakes Economic Costs Through Rank-Size Laws</title>
+      <link>http://localhost:1313/event/jds_2019/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/jds_2019/</guid>
       <description></description>
     </item>
     
@@ -1043,32 +1093,43 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Semi-Closed Simulated Stock Market: The Impact of the Traders&#39; Backgrounds</title>
+      <link>http://localhost:1313/event/euro_2018/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/euro_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity and Clustering of the US President Speeches</title>
+      <link>http://localhost:1313/event/jadt_2018/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/jadt_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity of United States of America Presidential Speeches</title>
+      <link>http://localhost:1313/event/cfe_2017/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/cfe_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Structure of the US Presidential Speeches</title>
+      <link>http://localhost:1313/event/knowescape_2017/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/knowescape_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Earthquakes economic costs through rank-size laws</title>
       <link>http://localhost:1313/publication/ficcadenti-2017-earthquakes/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/ficcadenti-2017-earthquakes/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

@@ -29,12 +29,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ficcadv2@lsbu.ac.uk'
+    url: 'mailto:ficcadv2@lsbu.ac.uk'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/mevalerio/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/valerio-ficcadenti/
+  - icon: brands/instagram
+    url: https://www.instagram.com/mevalerio/ 
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=iC-WRSMAAAAJ&hl=it
   - icon: academicons/orcid
@@ -43,30 +43,34 @@ profiles:
     url: https://twitter.com/IoValerio
   - icon: brands/github
     url: https://github.com/mevalerio
+  - icon: brands/telegram
+    url: https://t.me/Sbagliato
 
 interests:
-  - Computational Linguistics 
+  - Computational Linguistics
   - Text Mining
-  - Rank-Size laws
+  - Rank-Size Laws
   - Finance and Economics
   - Information Science
-  - Politics 
+  - Politics
 
 education:
-  - area: Postgraduate Degree in Higher Education Administration
+  - area: Postgraduate Certificate in Higher Education Administration
     institution: University of London (UK)
     date_start: 2022-01-01
     date_end: 2022-12-31
     summary: |
       Postgraduate Certificate focusing on advanced skills in Higher Education Administration and Management.
 
+
   - area: PhD in Quantitative Methods for Economic Policy (Cum Laude)
     institution: Dep. of Economics and Law, University of Macerata (Italy)
     date_start: 2014-10-01
     date_end: 2018-10-31
     summary: |
+        Awarded a PhD with distinction and a fully funded scholarship.  
         Thesis title: [A rank-size approach to the analysis of socio-economic data](https://u-pad.unimc.it/bitstream/11393/251181/1/Valerio%20Ficcadenti%20-%20Tesi.pdf)
-        Supervised by [Prof Roy Cerqueti](https://research.uniroma1.it/researcher/51a402dfaa06cdb27ee6356053ac6102b3c7da982e909e6bc9c07b35).
+        Supervised by [Prof. Roy Cerqueti](https://research.uniroma1.it/researcher/51a402dfaa06cdb27ee6356053ac6102b3c7da982e909e6bc9c07b35), an extraordinary mentor and a dear friend.
     button:
       text: 'Read Thesis'
       url: 'https://u-pad.unimc.it/bitstream/11393/251181/1/Valerio%20Ficcadenti%20-%20Tesi.pdf'
@@ -102,6 +106,12 @@ work:
       - 🧠 Teaching Business Research Methods to undergraduate and postgraduate students.  I am proud to hit the mark with 80%+ in student satisfaction consistently!
       - 🤓 Supervising PhD students.
       - 🔍 Celebrating the success of publishing 1-2 REF-eligible papers every year!
+      - 🏢 Serving as the **Unit of Assessment 17 Lead**:
+        - ✍🏽 Preparing the narrative for the Environment Statement (People, Culture and Environment for REF 2029), highlighting the unit's strategic focus on fostering impactful and high-quality research.
+        - ⚒️ Directed the collection, evaluation, and preparation of Impact Case Studies, showcasing the societal and academic influence of research outputs.
+        - 📥 Managed the end-to-end process for assessing and selecting research outputs, collaborating with academics to ensure alignment with REF criteria.
+        - 🚀 Preparing for the REF 2029 submission, including strategic planning, early identification of impact cases, and the development of a cohesive research environment narrative.
+      - 📋 Leading the **GLA-funded project** titled **Inclusive Supply Chain**, which focuses on fostering diversity and inclusion within procurement strategies and local supply chains. The programme is delivered in partnership with **Newable**, leveraging their expertise in business growth and support for SMEs.
 
   - position: Senior Lecturer in Business Research Methods
     company_name: Business School - London South Bank University (UK)
@@ -114,6 +124,7 @@ work:
       - 🧠 Successfully led multiple modules, consistently achieving high student satisfaction rates, demonstrating a commitment to educational excellence. Modules such as management consultancy and Research Methods have been my proudest successes.
       - 💁🏽‍♂️ Mentored students and colleagues research plans.
       - 🔎 Contributed with papers to the REF 2021. 
+      - 🏢 Served as the **Unit of Assessment Lead** for the REF 2021 submission, overseeing the strategic alignment of research outputs, impact case studies, and the environment statement.
 
   - position: Deputy Director of Research and Enterprise Office
     company_name: Business School - London South Bank University (UK)
@@ -122,21 +133,9 @@ work:
     date_end: 2022-12-31
     summary: |
       Responsibilities include:
-      - 👨🏽‍💼 I spearheaded a transformative project focused on revising and producing a new work allocation hour model for research.
+      - 👨🏽‍💼 I spearheaded a transformative project focused on revising and producing a new work allocation hour model for research that could help and support **Early Career Researchers** in developing their research within LSBU - Business School, a post-92 university with a focus on teaching, which makes research development more challenging.
+      - 📋 The Ideated work allocation model maximised **Significant Responsibility for Research** within the school, ensuring alignment with the needs and goals of the **REF 2021** submission. This involved carefully considering output submission rules, impact cases, and the environment statement to support the school's strategic research priorities.
   
-  - position: Unit of Assessment 17 Lead
-    company_name: Business School - London South Bank University (UK)
-    company_url: 'https://www.lsbu.ac.uk/our-schools/business'
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      Spearheaded the submission process for REF 2021, ensuring the Unit of Assessment 17 met its goals for research quality and impact.
-      - ✍🏽 Preparing the narrative for the Environment Statement (People, Culture and Environment for REF 2029), highlighting the unit's strategic focus on fostering impactful and high-quality research.
-      - ⚒️ Directed the collection, evaluation, and preparation of Impact Case Studies, showcasing the societal and academic influence of research outputs.
-      - 📥 Managed the end-to-end process for assessing and selecting research outputs, collaborating with academics to ensure alignment with REF criteria.
-      - 🚀 Preparing for the REF 2029 submission, including strategic planning, early identification of impact cases, and the development of a cohesive research environment narrative.
-
   - position: Pricing Specialist in Derivatives Evaluation
     company_name: Deloitte's Pricing Centre (UK)
     company_url: 'https://www2.deloitte.com/uk/en/explore/home.html'
@@ -144,9 +143,10 @@ work:
     date_end: 2019-12-31
     summary: |
       Responsibilities include:
-      - Priced complex financial derivatives.
-      - Reviwed pricing models from large clients.
-      - Assisted in risk assessment and valuation for clients.
+      - Priced complex financial derivatives, ensuring compliance with, for example, **IFRS 9 - Financial Instruments**, which outlines requirements for fair value measurement, recognition, and impairment of financial assets and liabilities. This accounted for approximately 75% of the workload.
+      - Reviewed pricing models from large audit clients  focusing on validating the methodologies and inputs used for valuation.
+      - Assisted in risk assessment and valuation for advisory clients, which accounted for the remaining 25% of the workload, providing tailored solutions for derivative pricing and risk management.
+      - Developed a strong understanding of fixed-income products, options, swaps, and other complex financial instruments.
 
   - position: Postdoctoral Researcher in Quantitative Finance
     company_name: Faculty of Economics, Polytechnic University of Marche (Italy)
@@ -159,6 +159,7 @@ work:
       - Conducted research in quantitative finance and option pricing.
       - Published in peer-reviewed journals.
       - Collaborated with faculty on joint research projects.
+      - Taught modules where **maths for finance and economics** was a key focus, helping students understand quantitative methods and their application in financial and economic contexts.
 
   - position: Consultant and Intern in Financial Data Analytics
     company_name: FAO - Food and Agriculture Organization of the United Nations (Italy)
@@ -185,14 +186,14 @@ skills:
         icon: code-bracket
       - name: Data Visualization
         description: 'Seaborn (Python), ggplot2 (R), and Tableau for data visualization.'
-        icon: chart-bar
+        icon: custom/chart-lineplot
       - name: LaTeX
         description: 'Expert in typesetting academic papers, research articles, and presentations using LaTeX.'
         percent: 90
-        icon: 'custom/overleaf'
+        icon: 'academicons/overleaf'
       - name: Financial Software
         description: 'Bloomberg and Refinitiv Eikon'
-        icon: bank
+        icon: custom/bloomberg
       - name: Research & Professional
         description: 'Professional training designer, consulting and peer reviewer.'
         icon: academic-cap
@@ -201,16 +202,16 @@ skills:
     items:
       - name: Soft Skills
         description: 'Business developer, talent and funding hunter, and enthusiastic event organizer. Organizer of [LondonR Meetup](https://www.meetup.com/londonr/) and [London Data Science Workshop](https://www.meetup.com/london-data-science-workshop/).'
-        icon: user-group
+        icon: custom/network-group
       - name: Charity
         description: 'Founder and honorary member of the Rotaract Club "La Marca" - Rotary Club of Civitanova Marche, Italy.'
-        icon:  custom/latex2
+        icon:  custom/rotaract
       - name: Charity
         description: 'Founder and member of the e-Rotary Club "Homaranismo".'
-        icon: custom/overkeaf
+        icon: custom/rotary
       - name: Sports & Hobbies
         description: 'Kickboxing (black belt first dan and coach), cycling, and reading about geopolitics.'
-        icon: bicycle
+        icon: custom/boxing-glove
 
 
 languages:
