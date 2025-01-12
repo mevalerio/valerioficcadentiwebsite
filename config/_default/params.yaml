@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: red
 
 # SEO
 marketing:
@@ -36,11 +36,15 @@ header:
     show_theme_chooser: true
     logo:
       text: "Valerio Ficcadenti"
+# Logo filename in `assets/media/` folder
+      filename: "icon.png"
+# Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
+    highlight_active_link: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}.  I have decided to develope my own website using Hugo Blox Builder to showcase I am able to learn new skills 🤓.'
     license:
       enable: true
       allow_derivatives: false
@@ -55,6 +59,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false

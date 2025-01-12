@@ -54,6 +54,7 @@ interests:
   - Information Science
   - Politics
 
+
 education:
   - area: Postgraduate Certificate in Higher Education Administration
     institution: University of London (UK)
@@ -231,7 +232,7 @@ awards:
     url: https://ecointernazionale.com/2017/03/cwmun-2017-corrispondenze-in-diretta-da-new-york-city/
     date: '2017-03-19'
     awarder: Change the World Model United Nations
-    icon:  UN_emblem_blue.svg
+    icon:  custom/LogoUN
     summary: |
             Awarded Best Delegate at the 2017 Change the World Model United Nations for my role as the delegate of Jamaica in the World Health Organization (WHO) workings simulation. The event was both a challenge and a lot of fun, where I showcased my skills in diplomacy, public speaking, and problem-solving.
 ---
@@ -240,11 +241,10 @@ awards:
 
 Hi there! I am Valerio Ficcadenti — welcome to my corner of the web!
 
-I teach research methods, working with around 400 students each year as they approach the culmination of their academic journey. Together, we explore socio-economic phenomena through fascinating datasets, fostering curiosity in business and management science.
+I teach research methods mostly, working with around 400 students each year as they approach the end of their academic journey. Together, we explore socio-economic phenomena through cool datasets, fostering curiosity in business and management science.
 
-My journey spans academia, industry, and local governance, where I have learned that even small decisions can make a big difference.
+My journey spans academia, industry, and even local governance, where I have learned that even small decisions can make a big difference. In 2021, I married **Ludovica Pieroni**, my partner in life and adventures, who keeps me grounded and inspired every day.
 
 I am especially proud to have studied Informatics at [Technical Industrial Institute "G. and M. Montani"](https://www.istitutomontani.edu.it/web/storia/), a place that shaped me and introduced me to lifelong friends.
 
-Outside work, you’ll find me cycling 🚴🏽, kickboxing 🥊 (black belt!), diving into geopolitical news 📝, or battling it out in board games 🎲 like Catan.
-
+Outside work, you will find me cycling 🚴🏽, kickboxing 🥊 (black belt!), diving into geopolitical news 📝, or battling it out in board games 🎲 like Catan.
