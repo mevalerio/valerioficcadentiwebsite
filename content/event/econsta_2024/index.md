@@ -30,8 +30,13 @@ tags: []
 featured: true
 
 image:
+  # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+  placement: 3
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/man-in-gray-crew-neck-t-shirt-Ph0Aa13k5-c)'
   focal_point: Right
+  preview_only: false
+  # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
+
 
 #links:
 #  - icon: twitter
