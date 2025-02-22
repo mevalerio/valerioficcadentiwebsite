@@ -126,6 +126,7 @@
       "chroma",
       "cls-1",
       "container",
+      "container-fluid",
       "content",
       "course",
       "cursor-default",
@@ -594,7 +595,7 @@
       "z-30"
     ],
     "ids": [
-      "-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor",
+      "-click-here-to-become-a-sponsor-and-help-support-hugo-blox",
       "Icon",
       "Layer_1",
       "SVGCleanerId_0",
@@ -604,7 +605,7 @@
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-463219785",
+      "chart-283476519",
       "charts",
       "code",
       "crowd-funded-open-source-software",

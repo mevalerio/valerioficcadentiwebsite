@@ -103,13 +103,13 @@ work:
     date_start: 2023-08-01
     date_end: ''
     summary: |
-      - 🧠 Teaching Business Research Methods to undergraduate and postgraduate students.  I am proud to hit the mark with 80%+ in student satisfaction consistently!
-      - 🤓 Supervising PhD students, getting them to succesfull comppitions
-      - 🔍 Publishing 1-2 REF-eligible papers every year
+      - 🧠 Teaching Business Research Methods to undergraduate and postgraduate students with innovative teaching. **I am proud to hit the mark with 80%+ in student satisfaction consistently!**
+      - 🤓 Supervising **PhD** students to **successful completion**, supporting their academic and professional growth.  
+      - 🔍 Publishing **1-2 internationally excellent papers annually**, contributing to high-quality research in business, finance, and data science.  
       - 🏢 Serving as the **Unit of Assessment 17 Lead**:
-        - ✍🏽 Preparing the narrative for the People, Culture and Environment statement for REF 2029, highlighting the unit's strategic focus on fostering impactful and high-quality research.
-        - ⚒️ Directing the collection, evaluation, and preparation of Impact Case Studies, showcasing the societal and academic influence of research outputs.
-        - 📥 Managing the end-to-end process for assessing and selecting research outputs, collaborating with academics to ensure alignment with REF criteria.
+        - ✍🏽 Preparing the **People, Culture, and Environment** narrative to showcase **research developments, interdisciplinarity, and sustainability**.  
+        - ⚒️ Managing **Impact Case Studies** to highlight societal and academic contributions.  
+        - 📥 Overseeing **research output selection**, ensuring alignment with REF submission criteria and the Business School's strategic targets.  
       - 📋 Leading the **GLA-funded project** titled **Inclusive Supply Chain**, which focuses on fostering diversity and inclusion within procurement strategies and local supply chains. The programme is delivered in partnership with **Newable**, leveraging their expertise in business growth and support for SMEs.
 
   - position: Senior Lecturer in Business Research Methods
