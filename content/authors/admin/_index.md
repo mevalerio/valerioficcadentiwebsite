@@ -102,17 +102,57 @@ work:
     department: Dep. of Finance, Economics, Accounting and Analytics
     date_start: 2023-08-01
     date_end: ''
-    summary: |
-      Responsibilities include:
-      - 🧠 Teaching Business Research Methods to undergraduate and postgraduate students.  I am proud to hit the mark with 80%+ in student satisfaction consistently!
-      - 🤓 Supervising PhD students.
-      - 🔍 Celebrating the success of publishing 1-2 REF-eligible papers every year!
-      - 🏢 Serving as the **Unit of Assessment 17 Lead**:
-        - ✍🏽 Preparing the narrative for the Environment Statement (People, Culture and Environment for REF 2029), highlighting the unit's strategic focus on fostering impactful and high-quality research.
-        - ⚒️ Directed the collection, evaluation, and preparation of Impact Case Studies, showcasing the societal and academic influence of research outputs.
-        - 📥 Managed the end-to-end process for assessing and selecting research outputs, collaborating with academics to ensure alignment with REF criteria.
-        - 🚀 Preparing for the REF 2029 submission, including strategic planning, early identification of impact cases, and the development of a cohesive research environment narrative.
-      - 📋 Leading the **GLA-funded project** titled **Inclusive Supply Chain**, which focuses on fostering diversity and inclusion within procurement strategies and local supply chains. The programme is delivered in partnership with **Newable**, leveraging their expertise in business growth and support for SMEs.
+summary: |
+  ## Summary of Achievements  
+
+  ### 🧠 Teaching Excellence  
+    - **Situation**: Delivering Business Research Methods courses to undergraduate and postgraduate students.  
+    - **Task**: Ensuring high-quality instruction and student engagement.  
+    - **Action**:  
+      - Developed structured, interactive lectures.  
+      - Provided tailored support to students.  
+    - **Result**:  
+      - Consistently achieving **80%+ student satisfaction**, reflecting strong teaching impact.  
+
+  ### 🤓 PhD Supervision & Success  
+    - **Situation**: Guiding PhD students through their research journey.  
+    - **Task**: Supporting students in developing strong methodologies and impactful research.  
+    - **Action**:  
+      - Provided rigorous supervision and constructive feedback.  
+      - Facilitated strategic academic networking.  
+    - **Result**:  
+      - Students successfully completed their PhDs.  
+      - Secured opportunities in academia and industry.  
+
+  ### 🔍 Research & Publications  
+    - **Situation**: Contributing to high-quality research in business, finance, and data science.  
+    - **Task**: Publishing impactful papers aligned with REF standards.  
+    - **Action**:  
+      - Conducted independent and collaborative research.  
+      - Ensured methodological rigor in research outputs.  
+    - **Result**:  
+      - Published **1-2 REF-eligible papers annually**, strengthening academic contributions.  
+
+  ### 🏢 Unit of Assessment 17 Lead – REF 2029  
+    - **Situation**: Leading research assessment preparations for REF 2029.  
+    - **Task**: Enhancing research impact, ensuring alignment with REF criteria.  
+    - **Action**:  
+      - Drafted the **People, Culture, and Environment** narrative, showcasing strategic research priorities.  
+      - Oversaw the **Impact Case Studies**, emphasizing research contributions to society.  
+      - Managed **research output selection**, collaborating with academics to maximize REF submission quality.  
+    - **Result**:  
+      - Positioned the Unit for a **strong REF 2029 submission**.  
+      - Increased research recognition.  
+
+  ### 📋 GLA-Funded Inclusive Supply Chain Project  
+    - **Situation**: Leading a major initiative on diversity and inclusion in procurement.  
+    - **Task**: Designing and delivering a programme to support inclusive supply chains.  
+    - **Action**:  
+      - Partnered with **Newable** to leverage their SME expertise.  
+      - Implemented strategies to enhance diversity in procurement.  
+    - **Result**:  
+      - The programme is actively fostering **more inclusive, diverse supply chains**, benefiting SMEs and communities.  
+
 
   - position: Senior Lecturer in Business Research Methods
     company_name: Business School - London South Bank University (UK)
