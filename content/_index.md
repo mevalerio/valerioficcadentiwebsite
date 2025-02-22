@@ -57,7 +57,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - talks
     design:
       view: article-grid
       columns: 1
@@ -68,9 +68,9 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: news
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         author: ""

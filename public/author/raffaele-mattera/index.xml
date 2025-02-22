@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raffaele Mattera | Valerio Ficcadenti&#39;s web space</title>
+    <link>http://localhost:1313/author/raffaele-mattera/</link>
+      <atom:link href="http://localhost:1313/author/raffaele-mattera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raffaele Mattera</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_ff472a785289d140.png</url>
+      <title>Raffaele Mattera</title>
+      <link>http://localhost:1313/author/raffaele-mattera/</link>
+    </image>
+    
+    <item>
+      <title>Investors’ attention and network spillover for commodity market forecasting</title>
+      <link>http://localhost:1313/publication/cerqueti-2024102023/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cerqueti-2024102023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kendall correlations and radar charts to include goals for and goals against in soccer rankings</title>
+      <link>http://localhost:1313/publication/cerqueti-2024-kendall/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cerqueti-2024-kendall/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

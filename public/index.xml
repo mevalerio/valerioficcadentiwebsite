@@ -14,9 +14,9 @@
     
     <item>
       <title>Kendall correlations and radar charts to include goals for and goals against in soccer rankings</title>
-      <link>http://localhost:1313/event/econsta_2024/</link>
+      <link>http://localhost:1313/talks/econsta_2024/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/econsta_2024/</guid>
+      <guid>http://localhost:1313/talks/econsta_2024/</guid>
       <description>&lt;!-- 
 
 
@@ -85,17 +85,17 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>Markov Chain Monte Carlo for Generating Ranked Textual Data</title>
-      <link>http://localhost:1313/event/icas_2023/</link>
+      <link>http://localhost:1313/talks/icas_2023/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/icas_2023/</guid>
+      <guid>http://localhost:1313/talks/icas_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>http://localhost:1313/news/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>http://localhost:1313/news/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -203,9 +203,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/post/second-brain/</link>
+      <link>http://localhost:1313/news/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second-brain/</guid>
+      <guid>http://localhost:1313/news/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -315,9 +315,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
+      <link>http://localhost:1313/news/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
+      <guid>http://localhost:1313/news/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -328,7 +328,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
 
 
-&lt;div id=&#34;chart-186739245&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-219874653&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -346,7 +346,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-186739245&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-219874653&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -525,9 +525,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/post/teach-courses/</link>
+      <link>http://localhost:1313/news/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/teach-courses/</guid>
+      <guid>http://localhost:1313/news/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -576,7 +576,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/news/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -887,9 +887,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/post/project-management/</link>
+      <link>http://localhost:1313/news/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project-management/</guid>
+      <guid>http://localhost:1313/news/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -994,17 +994,17 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Anxiety for the Pandemic and Trust in Financial Markets</title>
-      <link>http://localhost:1313/event/cebss_2021/</link>
+      <link>http://localhost:1313/talks/cebss_2021/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/cebss_2021/</guid>
+      <guid>http://localhost:1313/talks/cebss_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anxiety for the Pandemic and Trust in Financial Markets</title>
-      <link>http://localhost:1313/event/int_week_2021/</link>
+      <link>http://localhost:1313/talks/int_week_2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/int_week_2021/</guid>
+      <guid>http://localhost:1313/talks/int_week_2021/</guid>
       <description></description>
     </item>
     
@@ -1026,9 +1026,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Benford&#39;s Laws Tests on S&amp;P500 Daily Closing Values and Log-Returns</title>
-      <link>http://localhost:1313/event/icas_2020/</link>
+      <link>http://localhost:1313/talks/icas_2020/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/icas_2020/</guid>
+      <guid>http://localhost:1313/talks/icas_2020/</guid>
       <description></description>
     </item>
     
@@ -1050,9 +1050,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Earthquakes Economic Costs Through Rank-Size Laws</title>
-      <link>http://localhost:1313/event/jds_2019/</link>
+      <link>http://localhost:1313/talks/jds_2019/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/jds_2019/</guid>
+      <guid>http://localhost:1313/talks/jds_2019/</guid>
       <description></description>
     </item>
     
@@ -1082,33 +1082,33 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Semi-Closed Simulated Stock Market: The Impact of the Traders&#39; Backgrounds</title>
-      <link>http://localhost:1313/event/euro_2018/</link>
+      <link>http://localhost:1313/talks/euro_2018/</link>
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/euro_2018/</guid>
+      <guid>http://localhost:1313/talks/euro_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complexity and Clustering of the US President Speeches</title>
-      <link>http://localhost:1313/event/jadt_2018/</link>
+      <link>http://localhost:1313/talks/jadt_2018/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/jadt_2018/</guid>
+      <guid>http://localhost:1313/talks/jadt_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complexity of United States of America Presidential Speeches</title>
-      <link>http://localhost:1313/event/cfe_2017/</link>
+      <link>http://localhost:1313/talks/cfe_2017/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/cfe_2017/</guid>
+      <guid>http://localhost:1313/talks/cfe_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Structure of the US Presidential Speeches</title>
-      <link>http://localhost:1313/event/knowescape_2017/</link>
+      <link>http://localhost:1313/talks/knowescape_2017/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/knowescape_2017/</guid>
+      <guid>http://localhost:1313/talks/knowescape_2017/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gurjeet Dhesi | Valerio Ficcadenti&#39;s web space</title>
+    <link>http://localhost:1313/author/gurjeet-dhesi/</link>
+      <atom:link href="http://localhost:1313/author/gurjeet-dhesi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gurjeet Dhesi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_ff472a785289d140.png</url>
+      <title>Gurjeet Dhesi</title>
+      <link>http://localhost:1313/author/gurjeet-dhesi/</link>
+    </image>
+    
+    <item>
+      <title>Markov Chain Monte Carlo for generating ranked textual data</title>
+      <link>http://localhost:1313/publication/cerqueti-2022-markov/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cerqueti-2022-markov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benford’s laws tests on S&amp;P500 daily closing values and the corresponding daily log-returns both point to huge non-conformity</title>
+      <link>http://localhost:1313/publication/ausloos-2021-benford/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ausloos-2021-benford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropic analysis of votes expressed in Italian elections between 1948 and 2018</title>
+      <link>http://localhost:1313/publication/marmani-2020-entropic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/marmani-2020-entropic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Words ranking and Hirsch index for identifying the core of the hapaxes in political texts</title>
+      <link>http://localhost:1313/publication/ficcadenti-2020-words/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ficcadenti-2020-words/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

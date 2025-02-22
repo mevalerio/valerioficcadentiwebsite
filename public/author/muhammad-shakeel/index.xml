@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammad Shakeel | Valerio Ficcadenti&#39;s web space</title>
+    <link>http://localhost:1313/author/muhammad-shakeel/</link>
+      <atom:link href="http://localhost:1313/author/muhammad-shakeel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muhammad Shakeel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_ff472a785289d140.png</url>
+      <title>Muhammad Shakeel</title>
+      <link>http://localhost:1313/author/muhammad-shakeel/</link>
+    </image>
+    
+    <item>
+      <title>Benford’s laws tests on S&amp;P500 daily closing values and the corresponding daily log-returns both point to huge non-conformity</title>
+      <link>http://localhost:1313/publication/ausloos-2021-benford/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ausloos-2021-benford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

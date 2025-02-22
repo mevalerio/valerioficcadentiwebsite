@@ -110,7 +110,7 @@ work:
         - ✍🏽 Preparing the **People, Culture, and Environment** narrative to showcase **research developments, interdisciplinarity, and sustainability**.  
         - ⚒️ Managing **Impact Case Studies** to highlight societal and academic contributions.  
         - 📥 Overseeing **research output selection**, ensuring alignment with REF submission criteria and the Business School's strategic targets.  
-      - 📋 Leading the **GLA-funded project** titled **Inclusive Supply Chain**, which focuses on fostering diversity and inclusion within procurement strategies and local supply chains. The programme is delivered in partnership with **Newable**, leveraging their expertise in business growth and support for SMEs.
+      - 📋 Managed the **GLA-funded Inclusive Supply Chain project**, driving diversity and inclusion in procurement. Led the support for **300+ companies**, helping them secure **over £1 million in contract bids** while integrating **student-led business projects** to provide innovative solutions. Delivered in partnership with **Newable**.
 
   - position: Senior Lecturer in Business Research Methods
     company_name: Business School - London South Bank University (UK)
@@ -119,11 +119,10 @@ work:
     date_start: 2020-01-01
     date_end: 2023-07-30
     summary: |
-      Responsibilities include:
-      - 🧠 Successfully led multiple modules, consistently achieving high student satisfaction rates, demonstrating a commitment to educational excellence. Modules such as management consultancy and Research Methods have been my proudest successes.
-      - 💁🏽‍♂️ Mentored students and colleagues research plans.
-      - 🔎 Contributed with papers to the REF 2021. 
-      - 🏢 Served as the **Unit of Assessment Lead** for the REF 2021 submission, overseeing the strategic alignment of research outputs, impact case studies, and the environment statement.
+      - 🧠 Led multiple modules, consistently achieving high student satisfaction rates. Modules such as Management Consultancy and Research Methods have been my proudest successes.
+      - 💁🏽‍♂️  Provided guidance to **students and colleagues** in developing their research plans. Mentored **Early Career Researchers**, supporting them in navigating their first steps in research, refining methodologies, and strengthening their academic contributions.  
+      - 🔎 Contributed with 5 papers to the Research Excellence Framework 2021. 
+      - 🏢 Led the **Unit of Assessment** for REF 2021, ensuring the **strategic alignment** of research outputs, impact case studies, and the environment statement. Oversaw the **evaluation and selection** of submissions, optimising research quality and impact. The greatest achievement was securing **over 50% of impact case studies rated 4***. 
 
   - position: Deputy Director of Research and Enterprise Office
     company_name: Business School - London South Bank University (UK)
@@ -131,7 +130,6 @@ work:
     date_start: 2020-01-01
     date_end: 2022-12-31
     summary: |
-      Responsibilities include:
       - 👨🏽‍💼 I spearheaded a transformative project focused on revising and producing a new work allocation hour model for research that could help and support **Early Career Researchers** in developing their research within LSBU - Business School, a post-92 university with a focus on teaching, which makes research development more challenging.
       - 📋 The Ideated work allocation model maximised **Significant Responsibility for Research** within the school, ensuring alignment with the needs and goals of the **REF 2021** submission. This involved carefully considering output submission rules, impact cases, and the environment statement to support the school's strategic research priorities.
   

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Valerio Ficcadenti&#39;s web space</title>
+    <link>http://localhost:1313/talks/</link>
+      <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_ff472a785289d140.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/talks/</link>
+    </image>
+    
+    <item>
+      <title>Kendall correlations and radar charts to include goals for and goals against in soccer rankings</title>
+      <link>http://localhost:1313/talks/econsta_2024/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/econsta_2024/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markov Chain Monte Carlo for Generating Ranked Textual Data</title>
+      <link>http://localhost:1313/talks/icas_2023/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/icas_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anxiety for the Pandemic and Trust in Financial Markets</title>
+      <link>http://localhost:1313/talks/cebss_2021/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cebss_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anxiety for the Pandemic and Trust in Financial Markets</title>
+      <link>http://localhost:1313/talks/int_week_2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/int_week_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benford&#39;s Laws Tests on S&amp;P500 Daily Closing Values and Log-Returns</title>
+      <link>http://localhost:1313/talks/icas_2020/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/icas_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earthquakes Economic Costs Through Rank-Size Laws</title>
+      <link>http://localhost:1313/talks/jds_2019/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/jds_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Closed Simulated Stock Market: The Impact of the Traders&#39; Backgrounds</title>
+      <link>http://localhost:1313/talks/euro_2018/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/euro_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity and Clustering of the US President Speeches</title>
+      <link>http://localhost:1313/talks/jadt_2018/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/jadt_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity of United States of America Presidential Speeches</title>
+      <link>http://localhost:1313/talks/cfe_2017/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cfe_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Structure of the US Presidential Speeches</title>
+      <link>http://localhost:1313/talks/knowescape_2017/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/knowescape_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
