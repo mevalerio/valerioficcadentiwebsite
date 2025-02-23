@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/roy-cerqueti/</link>
       <atom:link href="http://localhost:1313/author/roy-cerqueti/index.xml" rel="self" type="application/rss+xml" />
     <description>Roy Cerqueti</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 22:52:38 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_ff472a785289d140.png</url>
+      <url>http://localhost:1313/author/roy-cerqueti/avatar_hu_d5c1cd59f499d331.jpg</url>
       <title>Roy Cerqueti</title>
       <link>http://localhost:1313/author/roy-cerqueti/</link>
     </image>
+    
+    <item>
+      <title>Roy Cerqueti</title>
+      <link>http://localhost:1313/author/roy-cerqueti/</link>
+      <pubDate>Mon, 09 Dec 2024 22:52:38 +0000</pubDate>
+      <guid>http://localhost:1313/author/roy-cerqueti/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Economic keywords in political communications and financial markets</title>

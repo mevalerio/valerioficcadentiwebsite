@@ -2,6 +2,7 @@
 ---
 # Display name
 title: Valerio Ficcadenti
+author: admin
 
 # Full name (for SEO)
 first_name: Valerio
