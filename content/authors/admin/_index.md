@@ -238,9 +238,9 @@ awards:
 
 Hi there! I am Valerio Ficcadenti — welcome to my corner of the web!
 
-I teach research methods mostly, working with around 400 students each year as they approach the end of their academic journey. Together, we explore socio-economic phenomena through cool datasets, fostering curiosity in business and management science.
+I teach research methods mostly, working with around 500 students each year as they approach the end of their academic journey. Together, we explore socio-economic phenomena through cool datasets, fostering curiosity in business and management science.
 
-My journey spans academia, industry, and even local governance, where I have learned that even small decisions can make a big difference. In 2021, I married **Ludovica Pieroni**, my partner in life and adventures, who keeps me grounded and inspired every day.
+My journey spans academia, industry, and even local governance, where I have learned that even small decisions can make a big difference.
 
 I am especially proud to have studied Informatics at [Technical Industrial Institute "G. and M. Montani"](https://www.istitutomontani.edu.it/web/storia/), a place that shaped me and introduced me to lifelong friends.
 
