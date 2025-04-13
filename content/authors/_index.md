@@ -6,4 +6,7 @@
 #  _build:
 #    render: never
 #    list: always
+title: "All Co-Authors"
+layout: taxonomy
+summary: "Everyone I've published with"
 ---
