@@ -30,7 +30,7 @@ jobs:
 
       - name: 🧪 Run collaborator generator
         if: ${{ hashFiles('publications.bib') != '' }}
-        run: scripts/generate_laboratory.py
+        run: python scripts/generate_laboratory.py
 
       - name: 🔁 Create pull request with updated collaborators
         id: cpr
