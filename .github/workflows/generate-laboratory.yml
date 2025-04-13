@@ -1,52 +1,53 @@
-name: Generate Laboratory Profiles
+name: Import Collaborators From Bibtex
+
+permissions:
+  contents: write
+  pull-requests: write
 
 on:
   push:
-    paths:
-      - publications.bib
-      - scripts/generate_laboratory.py
-      - .github/workflows/generate-laboratory.yml
+    branches: ['main']
+    paths: ['publications.bib']
+  workflow_dispatch:
 
 jobs:
-  update-laboratory:
+  import-collaborators:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repository
+      - name: 📥 Checkout the repo
         uses: actions/checkout@v3
 
-      - name: 🐍 Set up Python
+      - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
       - name: 📦 Install Python dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install bibtexparser python-slugify
 
-      - name: 🧪 Run script to generate laboratory profiles
+      - name: 🧪 Run collaborator generator
+        if: ${{ hashFiles('publications.bib') != '' }}
         run: python scripts/generate_laboratory.py
 
-      - name: 📤 Commit changes to new branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b lab-update-${{ github.run_number }}
-          git add content/laboratory/
-          git commit -m "🧪 Auto-generate collaborator profiles from publications.bib" || echo "No changes to commit"
-          git push origin lab-update-${{ github.run_number }}
-
-      - name: 🔁 Create pull request
+      - name: 🔁 Create pull request with updated collaborators
+        id: cpr
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          title: "🔁 Auto-update collaborators from BibTeX"
-          body: "This PR updates the `/content/laboratory/` profiles based on `publications.bib`."
-          branch: lab-update-${{ github.run_number }}
+          commit-message: 'content: generate collaborator profiles from publications.bib'
+          title: 'Auto-update: Collaborators from BibTeX'
+          body: |
+            This pull request updates `/content/laboratory/` based on co-authors found in `publications.bib`.
+
+            Please review the new profiles before merging.
           base: main
+          branch: auto-lab-update
           delete-branch: true
 
-#      - name: ✅ Auto-merge pull request
-#        uses: pascalgn/automerge-action@v0.14.3
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 📋 Show pull request info
+        if: ${{ steps.cpr.outputs.pull-request-number }}
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
