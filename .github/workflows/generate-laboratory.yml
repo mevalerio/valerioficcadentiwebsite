@@ -19,6 +19,7 @@ jobs:
 
       - name: Install dependencies and run script
         run: |
+          pip install bibtexparser
           python scripts/generate_laboratory.py
 
       - name: Commit and push changes
