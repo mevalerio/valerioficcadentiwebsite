@@ -1,13 +1,5 @@
 import subprocess
 import sys
-
-# Auto-install missing packages (no execution, shown for completeness)
-required = {"bibtexparser", "python-slugify", "requests"}
-installed = {pkg.key for pkg in __import__("pkg_resources").working_set}
-missing = required - installed
-if missing:
-    print(f"Missing packages: {missing}. Please install them manually.")
-
 import os
 import re
 import bibtexparser
