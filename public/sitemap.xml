@@ -6,7 +6,15 @@
     <lastmod>2024-12-09T22:52:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/laboratory/</loc>
+    <lastmod>2024-12-09T22:52:38+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/roy-cerqueti/</loc>
+    <lastmod>2024-12-09T22:52:38+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/roy-cerqueti/</loc>
     <lastmod>2024-12-09T22:52:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -298,10 +306,49 @@
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/laboratory/</loc>
+    <loc>http://localhost:1313/laboratory/ausloos-marcel/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/cerqueti-roy/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/cesarone-francesco/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/cinelli-matteo/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/dhesi-gurjeet/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/ficcadenti-valerio/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/kaur-parmjit/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/marmani-stefano/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/mattera-raffaele/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/raffaele-mattera/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/riccioni-jessica/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/shakeel-muhammad/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/valerio-ficcadenti/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/laboratory/vardei-ciro-hosseini/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

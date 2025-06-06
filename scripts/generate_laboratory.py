@@ -16,28 +16,80 @@ from slugify import slugify
 from pathlib import Path
 
 # === Static info ===
+# Enriched author metadata
 DATA = {
     "Marcel Ausloos": {
         "Affiliations": [
-            "School of Business, University of Leicester, UK",
-            "Academia de Studii Economice din Bucureşti (Bucharest University of Economic Studies), Romania"
+            "University of Leicester, UK",
+            "Academia de Studii Economice din Bucureşti, Romania"
         ],
         "Links": [
             "https://le.ac.uk/people/marcel-ausloos",
             "https://www.ase.ro/en/"
         ],
-        "ORCID": "0000-0002-2155-6601"
+        "ORCID": "0000-0001-9973-0019"
     },
     "Valerio Ficcadenti": {
+        "Affiliations": ["London South Bank University, Business School, UK"],
+        "Links": ["https://www.lsbu.ac.uk/about-us/people/valerio-ficcadenti"],
+        "ORCID": "0000-0001-8786-8213"
+    },
+    "Gurjeet Dhesi": {
+        "Affiliations": ["University of Leicester, UK"],
+        "Links": ["https://le.ac.uk/people/gurjeet-dhesi"],
+        "ORCID": "0000-0002-5596-3010"
+    },
+    "Muhammad Shakeel": {
+        "Affiliations": ["University of Leicester, UK"],
+        "Links": ["https://le.ac.uk/people/muhammad-shakeel"],
+        "ORCID": None
+    },
+    "Roy Cerqueti": {
         "Affiliations": [
-            "London South Bank University, Business School, UK"
+            "Sapienza University of Rome, Italy",
+            "University of Macerata, Italy (former)"
         ],
         "Links": [
-            "https://www.lsbu.ac.uk/about-us/people/valerio-ficcadenti"
+            "https://www.uniroma1.it/en/personale/roy-cerqueti",
+            "https://docenti.unimc.it/roy.cerqueti"
         ],
-        "ORCID": "0000-0002-9986-5531"
+        "ORCID": "0000-0002-1871-7371"
     },
-    # ... aggiungi gli altri come nel dizionario precedente
+    "Matteo Cinelli": {
+        "Affiliations": ["Sapienza University of Rome, Italy"],
+        "Links": ["https://cinhelli.github.io"],
+        "ORCID": "0000-0003-3899-4592"
+    },
+    "Jessica Riccioni": {
+        "Affiliations": ["Sapienza University of Rome, Italy"],
+        "Links": [],
+        "ORCID": "0000-0003-2718-5669"
+    },
+    "Parmjit Kaur": {
+        "Affiliations": ["University of Leicester, UK"],
+        "Links": ["https://le.ac.uk/people/parmjit-kaur"],
+        "ORCID": "0000-0001-5031-9704"
+    },
+    "Stefano Marmani": {
+        "Affiliations": ["Affiliation not found (likely Italian institution)"],
+        "Links": [],
+        "ORCID": None
+    },
+    "Ciro Hosseini Varde’i": {
+        "Affiliations": ["Affiliation not found"],
+        "Links": [],
+        "ORCID": None
+    },
+    "Francesco Cesarone": {
+        "Affiliations": ["University of Rome Tor Vergata, Italy"],
+        "Links": ["https://www.uniroma2.it/didattica/docenti/francesco-cesarone"],
+        "ORCID": "0000-0003-2326-4204"
+    },
+    "Raffaele Mattera": {
+        "Affiliations": ["Sapienza University of Rome, Italy"],
+        "Links": ["https://www.uniroma1.it/en/personale/raffaele-mattera"],
+        "ORCID": "0000-0001-8770-7049"
+    }
 }
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
