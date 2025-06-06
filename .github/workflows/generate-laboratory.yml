@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies and run script
         run: |
-          python scripts/generate_collaborators.py
+          python scripts/generate_laboratory.py
 
       - name: Commit and push changes
         run: |
