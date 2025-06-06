@@ -1,12 +1,12 @@
 import subprocess
 import sys
 
-# Auto-install missing packages
+# Auto-install missing packages (no execution, shown for completeness)
 required = {"bibtexparser", "python-slugify", "requests"}
 installed = {pkg.key for pkg in __import__("pkg_resources").working_set}
 missing = required - installed
 if missing:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", *missing])
+    print(f"Missing packages: {missing}. Please install them manually.")
 
 import os
 import re
@@ -16,7 +16,6 @@ from slugify import slugify
 from pathlib import Path
 
 # === Static info ===
-# Enriched author metadata
 DATA = {
     "Marcel Ausloos": {
         "Affiliations": [
@@ -97,48 +96,55 @@ BIB_PATH = PROJECT_ROOT / "publications.bib"
 OUTPUT_DIR = PROJECT_ROOT / "content/laboratory"
 DEFAULT_ROLE = "Research Collaborator"
 
-with open(BIB_PATH, encoding="utf-8") as bibtex_file:
-    bib_database = bibtexparser.load(bibtex_file)
-
-author_set = set()
-for entry in bib_database.entries:
-    if "author" in entry:
-        authors = re.split(r"\s+and\s+", entry["author"])
-        author_set.update([a.strip() for a in authors])
-
-Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
+# === Utilities ===
+def normalise_name(name: str) -> str:
+    if "," in name:
+        parts = [p.strip() for p in name.split(",")]
+        name = f"{parts[1]} {parts[0]}"
+    return " ".join(name.strip().split())
 
 def get_initials(name):
     parts = name.strip().split()
-    if len(parts) >= 2:
-        return parts[0][0] + parts[-1][0]
-    elif len(parts) == 1:
-        return parts[0][0] * 2
-    else:
-        return "xx"
+    return (parts[0][0] + parts[-1][0]).lower() if len(parts) >= 2 else "xx"
 
-for author in sorted(author_set):
+# === Load BibTeX and extract authors ===
+with open(BIB_PATH, encoding="utf-8") as bibtex_file:
+    bib_database = bibtexparser.load(bibtex_file)
+
+author_map = dict()
+for entry in bib_database.entries:
+    if "author" in entry:
+        raw_authors = re.split(r"\s+and\s+", entry["author"])
+        for raw_author in raw_authors:
+            clean = normalise_name(raw_author)
+            reversed_key = " ".join(reversed(clean.split()))
+            if reversed_key not in author_map:
+                author_map[clean] = raw_author.strip()
+
+# === Create folders and markdown ===
+Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
+
+for author in sorted(author_map):
     slug = slugify(author)
-    initials = get_initials(author).lower()
+    initials = get_initials(author)
     avatar_file = f"{initials}.jpg"
-    folder = os.path.join(OUTPUT_DIR, slug)
-    os.makedirs(folder, exist_ok=True)
+    folder = OUTPUT_DIR / slug
+    folder.mkdir(parents=True, exist_ok=True)
 
     info = DATA.get(author, {})
-    role = DEFAULT_ROLE
     affiliations = info.get("Affiliations", ["Affiliation Unknown"])
     links = info.get("Links", [])
-    orcid = info.get("ORCID", "")
+    orcid = info.get("ORCID", None)
 
-    index_path = os.path.join(folder, "_index.md")
-    if not os.path.exists(index_path):
+    index_path = folder / "_index.md"
+    if not index_path.exists():
         with open(index_path, "w", encoding="utf-8") as f:
-            f.write(f"---\n")
+            f.write("---\n")
             f.write(f'title: "{author}"\n')
-            f.write(f'role: "{role}"\n')
+            f.write(f'role: "{DEFAULT_ROLE}"\n')
             f.write(f'organization:\n')
             for aff in affiliations:
-                f.write(f"  - \"{aff}\"\n")
+                f.write(f'  - "{aff}"\n')
             f.write(f'avatar: "{avatar_file}"\n')
             f.write(f'user_groups: ["Laboratory"]\n')
             f.write(f'identifier: "{slug}"\n')
@@ -148,7 +154,7 @@ for author in sorted(author_set):
                     f.write(f"  - icon: link\n    name: Website\n    url: {url}\n")
             if orcid:
                 f.write(f'orcid: "{orcid}"\n')
-            f.write(f"---\n")
+            f.write("---\n")
         print(f"Created: {index_path}")
     else:
-        print(f"Skipped: {index_path}")
+        print(f"Skipped (already exists): {index_path}")
