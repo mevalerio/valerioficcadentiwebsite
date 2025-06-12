@@ -88,7 +88,6 @@ BIB_PATH = PROJECT_ROOT / "publications.bib"
 OUTPUT_DIR = PROJECT_ROOT / "content/laboratory"
 DEFAULT_ROLE = "Research Collaborator"
 
-# === Utilities ===
 def normalise_name(name: str) -> str:
     if "," in name:
         parts = [p.strip() for p in name.split(",")]
@@ -99,7 +98,7 @@ def get_initials(name):
     parts = name.strip().split()
     return (parts[0][0] + parts[-1][0]).lower() if len(parts) >= 2 else "xx"
 
-# === Load BibTeX and extract authors ===
+# === Parse BibTeX ===
 with open(BIB_PATH, encoding="utf-8") as bibtex_file:
     bib_database = bibtexparser.load(bibtex_file)
 
@@ -113,7 +112,7 @@ for entry in bib_database.entries:
             if reversed_key not in author_map:
                 author_map[clean] = raw_author.strip()
 
-# === Create folders and markdown ===
+# === Create markdown files ===
 Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
 
 for author in sorted(author_map):
@@ -138,7 +137,7 @@ for author in sorted(author_map):
             for aff in affiliations:
                 f.write(f'  - "{aff}"\n')
             f.write(f'avatar: "{avatar_file}"\n')
-            f.write(f'user_groups: ["Laboratory"]\n')
+            f.write(f'user_groups: ["Co-author"]\n')
             f.write(f'identifier: "{slug}"\n')
             if links:
                 f.write("links:\n")
