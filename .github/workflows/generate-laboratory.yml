@@ -21,7 +21,7 @@ jobs:
         run: |
           pip install bibtexparser
           pip install requests
-          pip install slugify
+          pip install python-slugify
           python scripts/generate_laboratory.py
 
       - name: Commit and push changes
